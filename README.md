@@ -4,7 +4,7 @@ Hi 👋 My name is Emilio De Leon
 React JS Developer
 ------------------
 
-* 🌍  I'm based in California! - Open to any remote position
+* 🌍  I'm based in Mexico City! - Open to any remote position
 * ✉️  You can contact me at [emiliodeleon.contact@gmail.com](mailto:emiliodeleon.contact@gmail.com)
 * 🧠  I'm learning Angular, GraphQL, NextJS
 * ⚡  People call me "Emi"
