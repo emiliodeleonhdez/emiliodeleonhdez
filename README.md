@@ -1,12 +1,12 @@
-Hi 👋 My name is Emilio De Leon
+Hello world! 👋 My name is Emilio De Leon
 ===============================
 
 React JS Developer
 ------------------
 
-* 🌍  I'm based in Mexico City! - Software Engineer at Matrix Solutions
+* 🌍  I'm based in Mexico City! - Lead Software Engineer of Kiosks at Cinépolis 🍿
 * ✉️  You can contact me at [emiliodeleon.contact@gmail.com](mailto:emiliodeleon.contact@gmail.com)
-* 🧠  I'm learning Angular, GraphQL, NextJS
+* 🧠  I'm all about whipping up slick interfaces using React, Next.js, and Angular. Lately, I've been diving into Electron JS to cook up some cool desktop apps too! 
 * ⚡  People call me "Emi"
 
 ### Skills
