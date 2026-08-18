@@ -4,7 +4,7 @@ Hello world! 👋 My name is Emilio De Leon
 Senior Full Stack Engineer
 ------------------
 
-* 🌍  I'm based in Mexico City! - Senior Full Stack Engineer at GBG
+* 🌍  I'm based in Mexico City! - Senior Full Stack Engineer at Lab49
 * ✉️  You can contact me at [emiliodeleon.contact@gmail.com](mailto:emiliodeleon.contact@gmail.com)
 * 🧠  I'm all about whipping up slick interfaces using React, Next.js, and Angular. Lately, I've been diving into Electron JS to cook up some cool desktop apps too! 
 * ⚡  People call me "Emi"
